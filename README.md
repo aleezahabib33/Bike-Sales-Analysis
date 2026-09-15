@@ -110,7 +110,7 @@ Some of the key findings from the analysis include:
 ### Dashboard
 
 ![Bike Sales Dashboard](Dashboard_1.png)
-![Bike Sales Dashboard](Dashboard_1.png)
+![Bike Sales Dashboard](Dashboard_2.png)
 
 ## Skills Demonstrated
 
